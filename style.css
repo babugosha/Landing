@@ -546,11 +546,11 @@ footer {
     }
 
     nav {
-        gap: 16px;
+        gap: 12px;
     }
 
-    nav a:not(.btn-secondary) {
-        display: none; /* Hide normal links on mobile to save space */
+    nav a {
+        font-size: 0.8rem;
     }
 
     .hero-section {
